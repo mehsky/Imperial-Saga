@@ -1,0 +1,154 @@
+body {
+	
+	background-color: black;
+	font-family:      Verdana, Helvetica, Ariel, sans-serif;
+
+}
+
+#header.table {
+	border: 1px;
+	
+}
+
+
+#allcontent {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #ADA96E;
+	
+
+	
+	margin-bottom: 35px;
+	
+	
+}
+
+#allcontentguest {
+background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-color: black;
+	background-width: 500px;
+	background-position: center top;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #ADA96E;
+	
+	
+	margin-bottom: 35px;
+}
+
+
+#menu {
+	text-align: center;	
+}
+#loginmenu {
+	text-align: center;
+}
+#banner {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;	
+}
+h3 {
+	text-align: center;	
+}
+
+p {
+	color: #ADA96E;
+}
+p.error {
+	color: red;
+}
+#poverview {
+	margin-left: 50px;
+}
+#strategic_friends {
+ 
+  width:               400px;
+
+}
+
+tr.uline { 
+text-decoration:underline; 
+}
+
+p.menu {
+	text-align: center;
+}
+
+
+
+#strategic_friends fieldset{
+ 
+  width:               400px;
+
+}
+
+
+
+table{
+	width: 700px;
+	margin-top: 5px;
+	
+	text-align: left;
+	background-color: black;
+	
+	padding-right: 30px;
+	cellpadding: 10px;
+	
+	border: 0px;	
+	
+}
+th{
+	color: #ADA96E;
+	text-align: right;
+	vertical-align: top;
+}
+td{
+	padding-left: 30px;	
+	
+}
+#homemaincontent {
+	
+	width: 500px;
+	border: 1px solid black;
+	padding: 20px;
+	background-color: black;
+	margin-left: 125px;
+	margin-right: 150px;
+	text-align: center;
+	filter:alpha(opacity=80);
+
+	opacity:0.8;
+}
+#signup {
+	width: 400px;
+	border: 1px solid black;
+	padding: 20px;
+	background-color: black;
+	margin-left: 175px;
+	margin-right: 150px;
+	text-align: right;
+	line-height: 1.8;
+	filter:alpha(opacity=80);
+
+	opacity:0.8;
+}
+#login {
+	width: 800px;
+	text-align: right;
+	background-color: #130942;
+}
+#footer {
+	text-align: center;
+	padding-bottom: 5px;
+	
+}
+a:link {color:#968A39;}      /* unvisited link */
+a:visited {color:#968A39;}  /* visited link */
+a:hover {color:#968A39;}  /* mouse over link */
+a:active {color:#968A39;}  /* selected link */
